@@ -20,13 +20,13 @@ To run this project, you will need to add the following environment variables to
 
 #### Get Total Statistics
 
-```http
+```
   GET http://localhost:3000/api/total/
 ```
 
 #### Set increment and decrement
 
-```http
+```
   POST http://localhost:3000/api/set
 ```
 
@@ -40,7 +40,7 @@ To run this project, you will need to add the following environment variables to
 
 #### Get Year Statistics
 
-```http
+```
   GET http://localhost:3000/api/year/
 ```
 
@@ -50,7 +50,7 @@ To run this project, you will need to add the following environment variables to
 
 #### Get Month Statistics
 
-```http
+```
   GET http://localhost:3000/api/month/
 ```
 
@@ -64,7 +64,7 @@ To run this project, you will need to add the following environment variables to
 
 #### Get Day Statistics
 
-```http
+```
   GET http://localhost:3000/api/day/
 ```
 
